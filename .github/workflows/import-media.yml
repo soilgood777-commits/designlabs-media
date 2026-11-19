@@ -20,15 +20,15 @@ jobs:
             [ -z "$kind" ] && continue
             case "$kind" in \#*) continue;; esac
             ext="${url##*.}"
-            f="_src/$(basename "$url")"
-            [ -f "$f" ] || curl -fsSL "$url" -o "$f"
+            f="_src/$name.src"
+            [ -f "$f" ] || curl -fsSL --retry 3 -A "Mozilla/5.0" "$url" -o "$f"
             if [ "$kind" = img ]; then
               cwebp -quiet -q 80 -resize ${opts:-1600} 0 "$f" -o "img/$name.webp"
             else
               # opts = width:crf
               w="${opts%%:*}"; crf="${opts##*:}"
-              ffmpeg -loglevel error -y -i "$f" -an -vf "scale='min($w,iw)':-2" -c:v libx264 -preset slow -crf "$crf" -pix_fmt yuv420p -movflags +faststart "v/$name.mp4"
-              ffmpeg -loglevel error -y -i "v/$name.mp4" -frames:v 1 -vf "scale='min(1280,iw)':-2" -q:v 4 "_src/$name.jpg"
+              ffmpeg -nostdin -loglevel error -y -i "$f" -an -vf "scale='min($w,iw)':-2" -c:v libx264 -preset slow -crf "$crf" -pix_fmt yuv420p -movflags +faststart "v/$name.mp4"
+              ffmpeg -nostdin -loglevel error -y -i "v/$name.mp4" -frames:v 1 -vf "scale='min(1280,iw)':-2" -q:v 4 "_src/$name.jpg"
               cwebp -quiet -q 75 "_src/$name.jpg" -o "v/$name.webp"
             fi
           done < media-manifest.txt

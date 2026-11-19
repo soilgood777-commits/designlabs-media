@@ -13,3 +13,17 @@ img card_ux https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZ
 img card_brand https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261119_194928_fc7b541e-0440-436f-8a8c-2f56a851203e.png 1200
 img card_build https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261119_194932_fa7f635c-1212-4d9c-bcaf-853decd0d37c.png 1200
 img card_seo https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261119_190116_2fe853c6-13e4-467a-835a-d092c499e936.png 1600
+img pf_media199299811_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://media199299811.imweb.me/ 1440
+img pf_media199299811_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://media199299811.imweb.me/ 390
+img pf_media199293454_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://media199293454.imweb.me/ 1440
+img pf_media199293454_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://media199293454.imweb.me/ 390
+img pf_media199274734_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://media199274734.imweb.me/ 1440
+img pf_media199274734_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://media199274734.imweb.me/ 390
+img pf_sample-017_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://sample-017.imweb.me/ 1440
+img pf_sample-017_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://sample-017.imweb.me/ 390
+img pf_media199276101_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://media199276101.imweb.me/ 1440
+img pf_media199276101_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://media199276101.imweb.me/ 390
+img pf_boongsoo_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://boongsoo.imweb.me/ 1440
+img pf_boongsoo_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://boongsoo.imweb.me/ 390
+img pf_text-001_pc https://image.thum.io/get/width/1440/crop/900/noanimate/https://text-001.imweb.me/ 1440
+img pf_text-001_mo https://image.thum.io/get/viewportWidth/390/width/390/crop/844/noanimate/https://text-001.imweb.me/ 390
