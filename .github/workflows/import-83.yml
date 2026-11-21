@@ -1,0 +1,24 @@
+name: import-83
+on:
+  push:
+    paths: ['83-manifest.txt', '.github/workflows/import-83.yml']
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq webp
+      - run: |
+          set -e
+          mkdir -p 83 _s
+          while read -r name url w; do
+            [ -z "$name" ] && continue
+            curl -fsSL --retry 3 "$url" -o "_s/$name.png"
+            cwebp -quiet -q 82 -alpha_q 100 -resize $w 0 "_s/$name.png" -o "83/$name.webp"
+          done < 83-manifest.txt
+          rm -rf _s; ls -la 83
+      - run: |
+          git config user.name designlabs-bot; git config user.email designlabs-bot@users.noreply.github.com
+          git add 83; git diff --cached --quiet || git commit -m "Import 83 coffee mockup images"; git push

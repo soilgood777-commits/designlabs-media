@@ -1,0 +1,10 @@
+hero_cup https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185540_cf2a1f3b-7644-4fd5-8c3f-e70d2dbd93d7.png 1200
+menu_americano https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185539_0b79f262-f297-45eb-b37d-ad20ae5553d3.png 1000
+menu_latte https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185539_5f48ce4f-1a56-4ea4-875d-32bb70f19e96.png 1000
+menu_season https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185540_76b6c214-6724-4f22-bdc0-86c36550885c.png 1000
+kp_roast https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185540_79aa13ed-cc6c-4ead-bf97-d99433343a14.png 900
+kp_latteart https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185540_90b561a8-add0-4a0a-8ac8-02f580dd5abe.png 900
+kp_store https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185541_7b1129d4-d0d8-4ec8-9773-cf60c883e0ed.png 900
+kp_shelf https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185541_be8dda2e-3025-4c8e-929b-e8a902583a04.png 900
+bg_counter https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185540_4d654f45-9094-428a-8cc2-07d1387a294a.png 1800
+bg_interior https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261121_185540_b93e3f84-3fdd-4144-9357-7e1179bee1f5.png 1800
