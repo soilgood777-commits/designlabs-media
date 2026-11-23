@@ -1,0 +1,2 @@
+guribk_pc https://guribk.imweb.me 1440 900 d
+guribk_mo https://guribk.imweb.me 390 844 m
