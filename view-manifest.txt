@@ -1,4 +1,2 @@
-sq_boong https://boongsoo.imweb.me/ 1280 1280 d 5000
-sq_tan https://tanbeauty.imweb.me/ 1280 1280 d 2500
-sq_adk https://adklawoffice.imweb.me/ 1280 1280 d 5000
-# r5
+sq_guribk https://guribk.imweb.me/ 1280 1280 d 5000
+# r6
