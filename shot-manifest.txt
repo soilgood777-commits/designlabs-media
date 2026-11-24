@@ -1,2 +1,9 @@
-tan_pc https://tanbeauty.imweb.me/ 1440 900 d
-tan_mo https://tanbeauty.imweb.me/ 390 844 m
+fs_guribk_pc https://guribk.imweb.me/ 1440 900 d
+fs_tan_pc https://tanbeauty.imweb.me/ 1440 900 d
+fs_m811_pc https://media199299811.imweb.me/ 1440 900 d
+fs_adk_pc https://adklawoffice.imweb.me/ 1440 900 d
+fs_t001_pc https://text-001.imweb.me/ 1440 900 d
+fs_guribk_mo https://guribk.imweb.me/ 390 844 m
+fs_tan_mo https://tanbeauty.imweb.me/ 390 844 m
+fs_adk_mo https://adklawoffice.imweb.me/ 390 844 m
+fs_dl_mo https://xn--2z1b02c74ohzeod.com/ 390 844 m
