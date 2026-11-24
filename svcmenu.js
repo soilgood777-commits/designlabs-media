@@ -1,5 +1,3 @@
-(function(){function roots(){ var out=[document]; (function walk(r){ var a=r.querySelectorAll('*'); for(var i=0;i<a.length;i++){ if(a[i].shadowRoot){ out.push(a[i].shadowRoot); walk(a[i].shadowRoot);} } })(document); return out; }
-function txt(el){ return (el.textContent||'').replace(/\s+/g,' ').trim(); }
   var SUBS = [
     ['/web-design','웹디자인','홈페이지 디자인 · 반응형 리뉴얼'],
     ['/ai-visual','AI 비주얼','AI 광고영상 · 메인 영상'],
@@ -108,5 +106,3 @@ function txt(el){ return (el.textContent||'').replace(/\s+/g,' ').trim(); }
   }
   var subQ = null;
   try { new MutationObserver(function(){ if (subQ) return; subQ = setTimeout(function(){ subQ = null; try{addSub();}catch(e){} }, 150); }).observe(document.documentElement, {childList:true, subtree:true}); } catch(e){}
-
-addSub();})();
