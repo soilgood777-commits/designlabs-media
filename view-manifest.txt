@@ -1,7 +1,3 @@
-dl_pc https://xn--2z1b02c74ohzeod.com/ 1440 1080 d 5000
-dl_mo https://xn--2z1b02c74ohzeod.com/ 390 844 m 5000
-tan_pc https://tanbeauty.imweb.me/ 1440 1080 d 4000
-tan_mo https://tanbeauty.imweb.me/ 390 844 m 4000
-adk_pc https://adklawoffice.imweb.me/ 1440 1080 d 4000
-adk_mo https://adklawoffice.imweb.me/ 390 844 m 4000
-# r2
+dl_pc https://xn--2z1b02c74ohzeod.com/ 1440 1080 d 9000
+adk_mo https://adklawoffice.imweb.me/ 390 844 m 5000
+# r3
