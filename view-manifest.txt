@@ -1,3 +1,10 @@
-dl_pc https://xn--2z1b02c74ohzeod.com/ 1440 1080 d 9000
-adk_mo https://adklawoffice.imweb.me/ 390 844 m 5000
-# r3
+sq_dl https://xn--2z1b02c74ohzeod.com/ 1280 1280 d 9000
+sq_tan https://tanbeauty.imweb.me/ 1280 1280 d 5000
+sq_m811 https://media199299811.imweb.me/ 1280 1280 d 5000
+sq_m454 https://media199293454.imweb.me/ 1280 1280 d 5000
+sq_m734 https://media199274734.imweb.me/ 1280 1280 d 5000
+sq_s017 https://sample-017.imweb.me/ 1280 1280 d 5000
+sq_m101 https://media199276101.imweb.me/ 1280 1280 d 5000
+sq_boong https://boongsoo.imweb.me/ 1280 1280 d 5000
+sq_t001 https://text-001.imweb.me/ 1280 1280 d 5000
+sq_adk https://adklawoffice.imweb.me/ 1280 1280 d 5000
