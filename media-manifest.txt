@@ -1,5 +1,2 @@
-img col_981 https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261124_151724_21dcd316-fd7b-4a64-b7d3-7b4fe93f1028.png 1200
-img col_978 https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261124_152011_063845f0-9e53-4bb8-a8ef-5e7fbce6f7f0.png 1200
-img col_975 https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261124_151957_d54c1a33-93b0-497f-9610-3ee0dd9cc79b.png 1200
-img col_970 https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261124_152003_0deab303-ca5f-4931-a661-a164abace3a0.png 1200
-img col_934 https://d8j0ntlcm91z4.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/hf_20261124_152001_e3b04c8b-f81d-4ed5-bd74-4597a5133033.png 1200
+vid ai_derm https://d2ol7oe51mr4n9.cloudfront.net/user_3L67dpKg2JTGn942EOwaUR46hZO/c74b6470-3520-46da-9179-18dbe341bda7.mp4 1280:26
+vid ai_dental https://cdn.jsdelivr.net/gh/soilgood777-commits/bk-dental@a95489bd5c7c89bdc3a0591f139e6f2f3012bb05/assets/hero.mp4 1280:26
