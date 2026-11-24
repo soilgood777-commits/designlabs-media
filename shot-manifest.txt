@@ -1,4 +1,2 @@
-dl_column_pc https://xn--2z1b02c74ohzeod.com/column 1440 900 d
-dl_post_pc https://xn--2z1b02c74ohzeod.com/column/?bmode=view&idx=175926981 1440 900 d
-coffee83_pc https://88coffe.imweb.me 1440 900 d
-og_main https://cdn.imweb.me/upload/S202610147650524bca71c/a6fbaafa73cc6.png 1200 630 d
+tan_pc https://tanbeauty.imweb.me/ 1440 900 d
+tan_mo https://tanbeauty.imweb.me/ 390 844 m
