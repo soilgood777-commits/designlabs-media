@@ -1,0 +1,43 @@
+name: lighthouse
+on:
+  push:
+    paths: ['lh-urls.txt', '.github/workflows/lighthouse.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  lh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Run
+        run: |
+          npm i -g lighthouse@12 >/dev/null 2>&1
+          mkdir -p lh
+          i=0
+          while read -r url; do
+            [ -z "$url" ] && continue
+            i=$((i+1))
+            for run in 1 2; do
+              lighthouse "$url" --quiet --chrome-flags="--headless=new --no-sandbox" --only-categories=performance,seo,accessibility,best-practices --output=json --output-path="lh/p${i}_r${run}.json" --form-factor=mobile --throttling-method=simulate || true
+            done
+          done < lh-urls.txt
+          node -e '
+          const fs=require("fs");const out=[];
+          for(const f of fs.readdirSync("lh").filter(x=>x.endsWith(".json")).sort()){
+            try{const j=JSON.parse(fs.readFileSync("lh/"+f));const a=j.audits,c=j.categories;
+            const opp=Object.values(a).filter(x=>x.details&&x.details.type==="opportunity"&&x.numericValue>200).sort((p,q)=>q.numericValue-p.numericValue).slice(0,5).map(x=>x.id+":"+Math.round(x.numericValue)+"ms");
+            const big=(a["total-byte-weight"].details.items||[]).slice(0,6).map(x=>Math.round(x.totalBytes/1024)+"KB "+x.url.slice(-70));
+            const lcpEl=(a["largest-contentful-paint-element"]&&a["largest-contentful-paint-element"].details&&JSON.stringify(a["largest-contentful-paint-element"].details.items).slice(0,300))||"";
+            out.push({f,url:j.finalDisplayedUrl,perf:c.performance.score,seo:c.seo.score,a11y:c.accessibility.score,bp:c["best-practices"].score,fcp:a["first-contentful-paint"].displayValue,lcp:a["largest-contentful-paint"].displayValue,tbt:a["total-blocking-time"].displayValue,cls:a["cumulative-layout-shift"].displayValue,weight:a["total-byte-weight"].displayValue,opp,big,lcpEl,a11yFail:Object.values(j.categories.accessibility.auditRefs).filter(r=>a[r.id].score===0).map(r=>r.id)});}catch(e){out.push({f,err:String(e)})}}
+          fs.writeFileSync("lh/summary.json",JSON.stringify(out,null,1));'
+          rm -f lh/p*_r*.json
+      - name: Commit
+        run: |
+          git config user.name "designlabs-bot"
+          git config user.email "designlabs-bot@users.noreply.github.com"
+          git add lh
+          git commit -m "lighthouse results" || true
+          git push
