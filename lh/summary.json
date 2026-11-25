@@ -1,0 +1,386 @@
+[
+ {
+  "f": "p1_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/web-design",
+  "perf": 0.39,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "12.2 s",
+  "lcp": "13.2 s",
+  "tbt": "670 ms",
+  "cls": "0.003",
+  "weight": "Total size was 7,337 KiB",
+  "opp": [
+   "render-blocking-resources:4504ms",
+   "unused-css-rules:2550ms",
+   "unused-javascript:910ms",
+   "server-response-time:588ms",
+   "unminified-css:450ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "776KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "749KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,3,P\",\"selector\":\"main > section.k-hero > div.k-in > p.k-lead\",\"bound",
+  "a11yFail": []
+ },
+ {
+  "f": "p1_r2.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/web-design",
+  "perf": 0.48,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.1 s",
+  "lcp": "7.5 s",
+  "tbt": "510 ms",
+  "cls": "0.003",
+  "weight": "Total size was 7,337 KiB",
+  "opp": [
+   "render-blocking-resources:2700ms",
+   "unused-css-rules:2120ms",
+   "unused-javascript:760ms",
+   "server-response-time:400ms",
+   "unminified-javascript:300ms"
+  ],
+  "big": [
+   "783KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "776KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "749KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,3,P\",\"selector\":\"main > section.k-hero > div.k-in > p.k-lead\",\"bound",
+  "a11yFail": []
+ },
+ {
+  "f": "p2_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/ai-visual",
+  "perf": 0.48,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.2 s",
+  "lcp": "7.1 s",
+  "tbt": "520 ms",
+  "cls": "0.003",
+  "weight": "Total size was 8,956 KiB",
+  "opp": [
+   "render-blocking-resources:2812ms",
+   "unused-css-rules:2570ms",
+   "server-response-time:386ms",
+   "unminified-css:300ms",
+   "unused-javascript:300ms"
+  ],
+  "big": [
+   "1100KB t/gh/soilgood777-commits/designlabs-media@f289343ed0fe/v/hero_card.mp4",
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "776KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "749KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-7-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,3,P\",\"selector\":\"main > section.k-hero > div.k-in > p.k-lead\",\"bound",
+  "a11yFail": []
+ },
+ {
+  "f": "p2_r2.json",
+  "err": "TypeError: Cannot read properties of undefined (reading 'items')"
+ },
+ {
+  "f": "p3_r1.json",
+  "err": "TypeError: Cannot read properties of undefined (reading 'items')"
+ },
+ {
+  "f": "p3_r2.json",
+  "err": "TypeError: Cannot read properties of undefined (reading 'items')"
+ },
+ {
+  "f": "p4_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/branding",
+  "perf": 0.38,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "10.0 s",
+  "lcp": "11.0 s",
+  "tbt": "400 ms",
+  "cls": "0.183",
+  "weight": "Total size was 7,192 KiB",
+  "opp": [
+   "render-blocking-resources:6706ms",
+   "unused-css-rules:2270ms",
+   "unused-javascript:910ms",
+   "unminified-javascript:450ms",
+   "server-response-time:348ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "748KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,7,DIV,1,P\",\"selector\":\"section.k-hero > div.k-in > div.k-ans > p\",\"b",
+  "a11yFail": []
+ },
+ {
+  "f": "p4_r2.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/branding",
+  "perf": 0.39,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.2 s",
+  "lcp": "7.0 s",
+  "tbt": "540 ms",
+  "cls": "0.183",
+  "weight": "Total size was 7,192 KiB",
+  "opp": [
+   "render-blocking-resources:2542ms",
+   "unused-css-rules:2130ms",
+   "unused-javascript:760ms",
+   "server-response-time:390ms",
+   "unminified-javascript:300ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "748KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,7,DIV,1,P\",\"selector\":\"section.k-hero > div.k-in > div.k-ans > p\",\"b",
+  "a11yFail": []
+ },
+ {
+  "f": "p5_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/maintenance",
+  "perf": 0.46,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "10.2 s",
+  "lcp": "11.5 s",
+  "tbt": "390 ms",
+  "cls": "0.003",
+  "weight": "Total size was 7,264 KiB",
+  "opp": [
+   "render-blocking-resources:6429ms",
+   "unused-css-rules:2440ms",
+   "unused-javascript:1070ms",
+   "server-response-time:375ms",
+   "unminified-css:310ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "748KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,7,DIV,1,P\",\"selector\":\"section.k-hero > div.k-in > div.k-ans > p\",\"b",
+  "a11yFail": []
+ },
+ {
+  "f": "p5_r2.json",
+  "err": "TypeError: Cannot read properties of undefined (reading 'items')"
+ },
+ {
+  "f": "p6_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/seo",
+  "perf": 0.47,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.1 s",
+  "lcp": "7.2 s",
+  "tbt": "570 ms",
+  "cls": "0.005",
+  "weight": "Total size was 7,184 KiB",
+  "opp": [
+   "render-blocking-resources:2813ms",
+   "unused-css-rules:2290ms",
+   "unused-javascript:920ms",
+   "server-response-time:438ms",
+   "unminified-css:310ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "748KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,3,P\",\"selector\":\"main > section.k-hero > div.k-in > p.k-lead\",\"bound",
+  "a11yFail": []
+ },
+ {
+  "f": "p6_r2.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/seo",
+  "perf": 0.45,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "7.9 s",
+  "lcp": "9.0 s",
+  "tbt": "480 ms",
+  "cls": "0.005",
+  "weight": "Total size was 7,184 KiB",
+  "opp": [
+   "render-blocking-resources:4168ms",
+   "unused-css-rules:2270ms",
+   "server-response-time:362ms",
+   "unminified-css:300ms",
+   "unused-javascript:300ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "748KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "329KB https://vendor-cdn.imweb.me/fonts/imweb-sans/woff2/imwebSans-400.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,3,P\",\"selector\":\"main > section.k-hero > div.k-in > p.k-lead\",\"bound",
+  "a11yFail": []
+ },
+ {
+  "f": "p7_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/case-guribk",
+  "perf": 0.47,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.5 s",
+  "lcp": "7.7 s",
+  "tbt": "490 ms",
+  "cls": "0.003",
+  "weight": "Total size was 7,691 KiB",
+  "opp": [
+   "render-blocking-resources:2300ms",
+   "unused-css-rules:2020ms",
+   "unused-javascript:1090ms",
+   "unminified-javascript:470ms",
+   "server-response-time:422ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "748KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "555KB t/gh/soilgood777-commits/designlabs-media@ddf6d0315b30/v/ai_dental.mp4"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-0-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,6,DIV,1,P\",\"selector\":\"section.k-hero > div.k-in > div.k-ans > p\",\"b",
+  "a11yFail": []
+ },
+ {
+  "f": "p7_r2.json",
+  "err": "TypeError: Cannot read properties of undefined (reading 'items')"
+ },
+ {
+  "f": "p8_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/case-tanbeauty",
+  "perf": 0.4,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.7 s",
+  "lcp": "7.8 s",
+  "tbt": "490 ms",
+  "cls": "0.156",
+  "weight": "Total size was 7,683 KiB",
+  "opp": [
+   "render-blocking-resources:3279ms",
+   "unused-css-rules:2310ms",
+   "unused-javascript:770ms",
+   "unminified-javascript:460ms",
+   "server-response-time:336ms"
+  ],
+  "big": [
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "776KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2",
+   "749KB 3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2",
+   "547KB oilgood777-commits/designlabs-media@2ddad04c223c/v/tanbeauty_card2.mp4"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-4-P\",\"path\":\"1,HTML,1,BODY,6,DIV,2,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,DIV,3,MAIN,0,SECTION,1,DIV,6,DIV,1,P\",\"selector\":\"section.k-hero > div.k-in > div.k-ans > p\",\"b",
+  "a11yFail": []
+ },
+ {
+  "f": "p8_r2.json",
+  "err": "TypeError: Cannot read properties of undefined (reading 'items')"
+ },
+ {
+  "f": "p9_r1.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/",
+  "perf": 0.4,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "6.1 s",
+  "lcp": "43.2 s",
+  "tbt": "720 ms",
+  "cls": "0",
+  "weight": "Total size was 13,423 KiB",
+  "opp": [
+   "unused-javascript:2850ms",
+   "unused-css-rules:2750ms",
+   "render-blocking-resources:2525ms",
+   "unminified-javascript:1500ms",
+   "uses-rel-preconnect:564ms"
+  ],
+  "big": [
+   "4036KB net/gh/soilgood777-commits/designlabs-media@f289343ed0fe/v/hero_mo.mp4",
+   "1100KB t/gh/soilgood777-commits/designlabs-media@f289343ed0fe/v/hero_card.mp4",
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-8-SPAN\",\"path\":\"1,HTML,1,BODY,7,DIV,2,MAIN,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,3,MAIN,3,DIV,0,DIV,0,SPAN\",\"selector\":\"main#dlm-hero > div.caps-d > div > span\",\"boundingRect\":{\"top",
+  "a11yFail": []
+ },
+ {
+  "f": "p9_r2.json",
+  "url": "https://xn--2z1b02c74ohzeod.com/",
+  "perf": 0.36,
+  "seo": 1,
+  "a11y": 1,
+  "bp": 0.79,
+  "fcp": "8.7 s",
+  "lcp": "43.2 s",
+  "tbt": "910 ms",
+  "cls": "0",
+  "weight": "Total size was 13,422 KiB",
+  "opp": [
+   "render-blocking-resources:4535ms",
+   "unused-css-rules:3000ms",
+   "unused-javascript:3000ms",
+   "unminified-javascript:1350ms",
+   "uses-rel-preconnect:561ms"
+  ],
+  "big": [
+   "4036KB net/gh/soilgood777-commits/designlabs-media@f289343ed0fe/v/hero_mo.mp4",
+   "1100KB t/gh/soilgood777-commits/designlabs-media@f289343ed0fe/v/hero_card.mp4",
+   "782KB 1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Black.woff2",
+   "775KB 9/packages/pretendard/dist/web/static/woff2/Pretendard-ExtraBold.woff2",
+   "773KB v1.3.9/packages/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2",
+   "768KB .9/packages/pretendard/dist/web/static/woff2/Pretendard-SemiBold.woff2"
+  ],
+  "lcpEl": "[{\"type\":\"table\",\"headings\":[{\"key\":\"node\",\"valueType\":\"node\",\"label\":\"Element\"}],\"items\":[{\"node\":{\"type\":\"node\",\"lhId\":\"page-8-SPAN\",\"path\":\"1,HTML,1,BODY,7,DIV,2,MAIN,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,3,MAIN,3,DIV,0,DIV,0,SPAN\",\"selector\":\"main#dlm-hero > div.caps-d > div > span\",\"boundingRect\":{\"top",
+  "a11yFail": []
+ }
+]
